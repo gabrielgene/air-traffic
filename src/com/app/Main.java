@@ -1,4 +1,4 @@
-package com.traffic;
+package com.app;
 
 import com.data.Flight;
 import com.util.Util;
