@@ -15,7 +15,7 @@ public class Flight {
 
     public void about() {
         System.out.println(String.format(
-                "Airplane model %s factory in %s, %s",
+                "Airplane model %s fabricated in %s, %s",
                 this.model.getModel(),
                 this.model.getFactoryDate(),
                 this.flightStatus.getStatus())
