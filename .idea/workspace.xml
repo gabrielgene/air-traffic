@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02810746-3ab5-460e-bf67-ca1774c0a2af" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/description.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/project-template.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -240,7 +236,7 @@
       <option name="presentableId" value="Default" />
       <updated>1509734050650</updated>
       <workItem from="1509734061286" duration="1921000" />
-      <workItem from="1510659584036" duration="1091000" />
+      <workItem from="1510659584036" duration="1103000" />
     </task>
     <task id="LOCAL-00001" summary="Fix typo">
       <created>1510660349262</created>
@@ -256,11 +252,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510660673768</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Remove idea files">
+      <created>1510660685896</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1510660685896</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3012000" />
+    <option name="totallyTimeSpent" value="3024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1368" height="773" extended-state="6" />
@@ -303,7 +306,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fix typo" />
     <MESSAGE value="Change gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change gitignore" />
+    <MESSAGE value="Remove idea files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove idea files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
